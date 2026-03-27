@@ -1,0 +1,18 @@
+# Node modules
+frontend/node_modules
+
+# Build files
+frontend/dist
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Go build
+*.exe
+*.out
+
+# Environment
+.env
